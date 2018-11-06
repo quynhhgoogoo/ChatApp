@@ -1,0 +1,4 @@
+﻿  Uclient.cpp
+u:\socket\udpserver\client\uclient.cpp(1): warning C4081: expected 'newline'; found ';'
+u:\socket\udpserver\client\uclient.cpp(40): warning C4101: 'tmp': unreferenced local variable
+  Client.vcxproj -> U:\socket\UDPServer\Debug\Client.exe
